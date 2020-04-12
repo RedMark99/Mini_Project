@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CLIENTS>
+  <CLIENT>
+    <name>Марк</name>
+    <surname>Чубенко</surname>
+    <lastname>Григорьевич</lastname>
+    <login>RedMark</login>
+    <password>markmark</password>
+    <seriaPassport>4242</seriaPassport>
+    <numberPassport>424242</numberPassport>
+    <deschotel>Desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>15.11.1999 0:00:00</dateOfBirth>
+    <CLIENTS />
+    <HOTELROOM>
+      <nomer>006</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+      <REGHOTELS>
+        <startLive>11.04.2020</startLive>
+        <endLive>11.04.2020</endLive>
+        <desclive>Оплачено</desclive>
+      </REGHOTELS>
+      <REGHOTELS>
+        <startLive>11.04.2020</startLive>
+        <endLive>11.04.2020</endLive>
+        <desclive>Оплачено</desclive>
+      </REGHOTELS>
+    </HOTELROOM>
+    <HOTELROOM>
+      <nomer>007</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+      <REGHOTELS>
+        <startLive>11.04.2020</startLive>
+        <endLive>11.04.2020</endLive>
+        <desclive>Оплачено</desclive>
+      </REGHOTELS>
+      <REGHOTELS>
+        <startLive>11.04.2020</startLive>
+        <endLive>11.04.2020</endLive>
+        <desclive>Оплачено</desclive>
+      </REGHOTELS>
+    </HOTELROOM>
+  </CLIENT>
+  <CLIENT>
+    <name>Лера</name>
+    <surname>Накано</surname>
+    <lastname>Марковна</lastname>
+    <login>Lera</login>
+    <password>markmark</password>
+    <seriaPassport>4243</seriaPassport>
+    <numberPassport>424243</numberPassport>
+    <deschotel>desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>29.03.2020 0:00:00</dateOfBirth>
+    <CLIENTS />
+    <HOTELROOM>
+      <nomer>006</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+    </HOTELROOM>
+    <HOTELROOM>
+      <nomer>007</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+    </HOTELROOM>
+  </CLIENT>
+  <CLIENT>
+    <name>Аня</name>
+    <surname>Накано</surname>
+    <lastname>Марковна</lastname>
+    <login>Anya</login>
+    <password>markmark</password>
+    <seriaPassport>4244</seriaPassport>
+    <numberPassport>424244</numberPassport>
+    <deschotel>desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>15.11.1999 0:00:00</dateOfBirth>
+    <CLIENTS />
+    <HOTELROOM>
+      <nomer>006</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+    </HOTELROOM>
+    <HOTELROOM>
+      <nomer>007</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+    </HOTELROOM>
+  </CLIENT>
+  <CLIENT>
+    <name>Катя</name>
+    <surname>Накано</surname>
+    <lastname>Марковна</lastname>
+    <login>Katya</login>
+    <password>markmark</password>
+    <seriaPassport>4242</seriaPassport>
+    <numberPassport>424343</numberPassport>
+    <deschotel>desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>05.11.1999 0:00:00</dateOfBirth>
+  </CLIENT>
+  <CLIENT>
+    <name>Костя</name>
+    <surname>Рыбак</surname>
+    <lastname>Марков</lastname>
+    <login>Kostya</login>
+    <password>markmark</password>
+    <seriaPassport>4142</seriaPassport>
+    <numberPassport>242312</numberPassport>
+    <deschotel>desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>17.01.1998 0:00:00</dateOfBirth>
+  </CLIENT>
+  <CLIENT>
+    <name>Эдуард</name>
+    <surname>Соловьев</surname>
+    <lastname>Альбертович</lastname>
+    <login>Ciri</login>
+    <password>markmark</password>
+    <seriaPassport>4243</seriaPassport>
+    <numberPassport>421232</numberPassport>
+    <deschotel>desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>29.03.2020 0:00:00</dateOfBirth>
+  </CLIENT>
+  <CLIENT>
+    <name>Алиса</name>
+    <surname>Ласый</surname>
+    <lastname>Марковна</lastname>
+    <login>Alis</login>
+    <password>markmark</password>
+    <seriaPassport>4441</seriaPassport>
+    <numberPassport>421231</numberPassport>
+    <deschotel>desc</deschotel>
+    <countDaysLive>0</countDaysLive>
+    <dateOfBirth>24.01.2000 0:00:00</dateOfBirth>
+    <CLIENTS />
+    <HOTELROOM>
+      <nomer>006</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+      <REGHOTELS>
+        <startLive>11.04.2020</startLive>
+        <endLive>11.04.2020</endLive>
+        <desclive>Не оплачено</desclive>
+      </REGHOTELS>
+    </HOTELROOM>
+    <HOTELROOM>
+      <nomer>007</nomer>
+      <countPeople>4</countPeople>
+      <category>Полулюкс</category>
+      <payment>35000</payment>
+    </HOTELROOM>
+  </CLIENT>
+</CLIENTS>

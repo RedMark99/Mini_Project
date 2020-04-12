@@ -1,0 +1,71 @@
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe.config
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\Mini_Project.pdb
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Main.resources
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Properties.Resources.resources
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.GenerateResource.cache
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.exe
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.pdb
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csprojAssemblyReference.cache
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.dll
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.xml
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.CopyComplete
+C:\Users\Mr. Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AdminMenu.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AdminMenu.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Main.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Properties.Resources.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.exe
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.pdb
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe.config
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\Mini_Project.pdb
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.dll
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.xml
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.CopyComplete
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AddClient.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AddNomer.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AddReg.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.UserMenu.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Migrations.InitialCreate.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.EditClient.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.EditNomer.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.EditReg.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Check.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.ExportImport.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.InfoHotel.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.InfoHotelPerson.resources
+C:\Users\Mark\source\repos\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.CoreCompileInputs.cache
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe.config
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\Mini_Project.pdb
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\EntityFramework.dll
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\EntityFramework.xml
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csprojAssemblyReference.cache
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AddClient.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AddNomer.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AddReg.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.AdminMenu.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Main.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Check.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.EditClient.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.EditNomer.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.EditReg.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.ExportImport.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.InfoHotel.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.InfoHotelPerson.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Migrations.InitialCreate.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Properties.Resources.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.UserMenu.resources
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.GenerateResource.cache
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.CoreCompileInputs.cache
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.CopyComplete
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.exe
+C:\Марк\Платформы NET\Mini_Project\Mini_Project\obj\Debug\Mini_Project.pdb
